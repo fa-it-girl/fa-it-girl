@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fakhriyya</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning ** node.js**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/rahimovafakhriyya](https://troopl.com/rahimovafakhriyya)
 
-- 💬 Ask me about **React, HTML, CSS**
+- 💬 Ask me about **  React, HTML, CSS**
 
-- 📫 How to reach me **rahimovafakhriyya@gmail.com**
+- 📫 How to reach me ** rahimovafakhriyya@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
