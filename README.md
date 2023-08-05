@@ -35,15 +35,15 @@
 
 ### Netflix clone
 **Skills**: React, HTML, CSS.
-**GitHub Repo**: [https://github.com/fa-it-girl/Netflix-clone](https://github.com/fa-it-girl/Netflix-clone)
 **Demo:** [https://fa-netflixclone.netlify.app/](https://fa-netflixclone.netlify.app/)
+**GitHub Repo**: [https://github.com/fa-it-girl/Netflix-clone](https://github.com/fa-it-girl/Netflix-clone)
 
 
 ### E-commerce app
 
 **Description:** Upon clicking, you can view all the jewellery available on our site and access detailed information for each piece.
 **Skills:** React, HTML, CSS.
-**Live Demo:** [https://fa-netflixclone.netlify.app/](https://fa-netflixclone.netlify.app/))
+**Live Demo:** [https://fa-netflixclone.netlify.app/](https://fa-netflixclone.netlify.app/)
 **GitHub Repo:** [https://github.com/fa-it-girl/chillpill](https://github.com/fa-it-girl/Netflix-clone)
 
 ---
@@ -53,7 +53,7 @@
 **Description:** You're able to search for your favorite movies, which will retrieve films from the OMDB API and display them. Upon selecting a movie, you can view its details and provide a rating.
 **Skills:** React, HTML, CSS.
 **Live Demo:** [https://fa-netflixclone.netlify.app/](https://fa-movie.netlify.app/)
-**GitHub Repo:** [[https://fa-movie.netlify.app/]([https://fa-movie.netlify.app/)
+**GitHub Repo:** [https://fa-movie.netlify.app/](https://fa-movie.netlify.app/)
 
 ---
 
