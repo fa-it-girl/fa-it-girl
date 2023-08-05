@@ -18,18 +18,12 @@
 
 ### Chill-Pill
 
-<div style="border: 1px solid #ccc; padding: 10px;">
-    <div style="display: flex; align-items: center;">
-        <img src="URL_TO_LIVE_VERSION_IMAGE" width="100" alt="Live Demo" style="margin-right: 10px;">
-        <p>This project is designed for pet lovers. Its main purpose is to send an email reminder 15 minutes before your pet's medication time. You can also locate the nearest vet, engage in a vet chat, and download medication details as a PDF.</p>
-    </div>
-    
-    <div style="display: flex; justify-content: space-between;">
-        <a href="https://chillpill.site" style="flex: 1;">Live Demo</a>
-        <a href="https://github.com/fa-it-girl/chillpill" style="flex: 1; text-align: right;">GitHub Repo</a>
-    </div>
-</div>
+**Description:** This project is designed for pet lovers. Its main purpose is to send an email reminder 15 minutes before your pet's medication time. You can also locate the nearest vet, engage in a vet chat, and download medication details as a PDF.
 
-<hr>
+**Live Demo:** [chillpill.site](https://chillpill.site)
+**GitHub Repo:** [https://github.com/fa-it-girl/chillpill](https://github.com/fa-it-girl/chillpill)
+
+---
+
 
 
