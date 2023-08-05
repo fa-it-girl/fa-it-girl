@@ -25,6 +25,6 @@
 | Movie app | You're able to search for your favorite movies, which will retrieve films from the OMDB API and display them. Upon selecting a movie, you can view its details and provide a rating. | React, HTML, CSS            | [Live Demo](https://fa-movie.netlify.app/) | [GitHub Repo](https://fa-movie.netlify.app/) |
 | Travel list | When preparing for travel, this app ensures you don't forget essential items. You can create and manage your checklist, easily adding and removing items as needed. | React, HTML, CSS            | [Live Demo](https://fa-travel-list.netlify.app/) | [GitHub Repo](https://github.com/fa-it-girl/travel-list) |
 | Food Order | For food orders, simply select items, add them to your basket, and proceed with the order. | React, HTML, CSS            | [Live Demo](https://fa-foodorder.netlify.app/) | [GitHub Repo](https://github.com/fa-it-girl/Food-order-app) |
-| Tic/Tac/Toe | Tic/Tac/Toe game | React, HTML, CSS            | [Live Demo]([https://fa-foodorder.netlify.app/](https://fatictactoe.netlify.app/)) | [GitHub Repo](https://github.com/fa-it-girl/Tic-Tac-Toe) |
+| Tic/Tac/Toe | Tic/Tac/Toe game | React, HTML, CSS            | [Live Demo](https://fatictactoe.netlify.app/) | [GitHub Repo](https://github.com/fa-it-girl/Tic-Tac-Toe) |
 | Weather app | Weather app | React, HTML, CSS            | [Live Demo](https://weatherbyfa.netlify.app/) | [GitHub Repo](https://github.com/fa-it-girl/weather-app)|
 
